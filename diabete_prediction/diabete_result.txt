@@ -1,0 +1,5 @@
+AUC Test : 0.82277318640955
+F1 Score : 0.6415094339622641
+Matrice de confusion :
+[[82 17]
+ [21 34]]

@@ -1,0 +1,2 @@
+Score : 0.12969 on Kaggle for XGBRegressor
+Score : 2.68271 on Kaggle for Linear

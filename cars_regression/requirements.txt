@@ -1,0 +1,6 @@
+@"
+pandas
+numpy
+matplotlib
+scikit-learn
+"@ | Out-File -FilePath requirements.txt -Encoding utf8

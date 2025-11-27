@@ -1,0 +1,11 @@
+XGBoost
+0.77033
+
+GradientBoostingClassifier
+0.76794
+
+RandomForestClassifier
+0.78708
+
+DecisionTreeClassifier
+0.76794
